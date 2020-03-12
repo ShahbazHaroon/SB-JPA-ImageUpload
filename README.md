@@ -10,6 +10,7 @@ INSERT INTO images(id,photo) VALUES(1002,LOAD_FILE('C:/SB-JPA-ImageUpload/src/ma
 
 To View Images From Classpath:
 http://localhost:8040/image/classpath
+</br>
 http://localhost:8040/image/classpath1
 
 To View Images From Database:
