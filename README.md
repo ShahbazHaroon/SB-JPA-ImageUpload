@@ -14,4 +14,5 @@ http://localhost:8040/image/classpath1
 
 To View Images From Database:
 http://localhost:8040/image/database/1001
+</br>
 http://localhost:8040/image/database1/1002
