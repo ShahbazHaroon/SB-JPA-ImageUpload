@@ -9,11 +9,13 @@ INSERT INTO images(id,photo) VALUES(1001,LOAD_FILE('C:/SB-JPA-ImageUpload/src/ma
 INSERT INTO images(id,photo) VALUES(1002,LOAD_FILE('C:/SB-JPA-ImageUpload/src/main/resources/images/Ford.jpg'));
 
 To View Images From Classpath:
+</br>
 http://localhost:8040/image/classpath
 </br>
 http://localhost:8040/image/classpath1
 
 To View Images From Database:
+</br>
 http://localhost:8040/image/database/1001
 </br>
 http://localhost:8040/image/database1/1002
